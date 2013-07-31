@@ -1,4 +1,4 @@
-BASE_PATH: "http://demonrain.github.io/fixtest"
+baseurl: /fixtest
 name: FixFlow主页
 markdown: redcarpet
 safe: true
