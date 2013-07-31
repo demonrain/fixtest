@@ -2,7 +2,7 @@
 layout: post
 title: "fixflow主页"
 date:   2013-07-30 21:20:43
-categories: fixtest
+categories: fixflow
 ---
 
 <h2>{{ page.title }}</h2>
