@@ -1,4 +1,3 @@
-baseurl: "http://demonrain.github.io/fixtest"
 name: FixFlow主页
 markdown: redcarpet
 pygments: true
