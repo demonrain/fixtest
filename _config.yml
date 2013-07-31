@@ -1,5 +1,6 @@
-baseurl: "http://demonrain.github.io/fixtest"
-permalink: /fixtest/:categories/:year/:month/:day/:title.html
+BASE_PATH: "http://demonrain.github.io/fixtest"
 name: FixFlow主页
 markdown: redcarpet
+safe: true
+lsi: false
 pygments: true
