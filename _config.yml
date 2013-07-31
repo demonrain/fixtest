@@ -1,5 +1,3 @@
-baseurl: "http://demonrain.github.io/fixtest"
-permalink: /fixtest/:categories/:year/:month/:day/:title.html
 name: FixFlow主页
 markdown: redcarpet
 pygments: true
