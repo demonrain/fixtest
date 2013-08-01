@@ -1,5 +1,4 @@
 baseurl: /fixtest
-permalink: /fixtest
 name: FixFlow主页
 markdown: redcarpet
 safe: true
